@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanishka Mishra</h1>
 <h3 align="center">A technology enthusiast who is passionate about machine learning, data structures, and competitive coding. I have an insatiable hunger for learning and constantly seek to deepen my understanding of the intricate workings of machine learning algorithms and their applications in real-world scenarios. I can comprehend complex data structures and algorithms and I enjoy tackling challenging problems and finding innovative solutions. I’m always eager to explore new avenues in my field of interest, and I’m always ready to push the boundaries of innovation in the world of technology.</h3>
-<img align="right" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align="center" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishkamishra2110&label=Profile%20views&color=0e75b6&style=flat" alt="tanishkamishra2110" /> </p>
 
